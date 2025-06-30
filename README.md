@@ -6,6 +6,29 @@
 > 
 > 🔧 **Code & Docs Coming Soon!**
 
+---
+
+## Repository Status
+
+* **State:** `Coming Soon~`
+* **Expected Release:** After paper acceptance (estimated H2 2025)
+* **Access:** Public (placeholder only, no code yet)
+
+---
+
+## Upcoming Features
+
+* 3D Grad-CAM extension for model interpretability on volumetric medical images
+* Voxel-level heatmap generation and multi-plane slice output
+
+**Planned additions upon release:**
+
+* Detailed usage examples (Jupyter Notebooks)
+* Installation instructions (`requirements.txt`)
+* API documentation and visualization scripts
+
+---
+
 ## 📖 Project Overview
 
 Pulmonary nodule detection is critical for early lung cancer diagnosis. FATE‑Net combines a self‑supervised medical foundation model, multi‑scale attention fusion and a gated attention mechanism to achieve state‑of‑the‑art detection performance and 3D explainability.  
