@@ -49,3 +49,73 @@ Pulmonary nodule detection is critical for early lung cancer diagnosis. FATE‑N
 ---
 
 *Thank you for your interest! Feel free to ⭐️ this repository and stay tuned for updates.*
+
+
+# FATE-Net Explainability Module
+
+> This repository contains the explainability analysis module code for the paper "FATE-Net: An Explainable 3D Framework for Lung Nodule Detection", currently under review. Code will be released upon paper acceptance — coming soon.
+
+---
+
+## Repository Status
+
+* **State:** `Coming Soon`
+* **Expected Release:** After paper acceptance (estimated H2 2025)
+* **Access:** Public (placeholder only, no code yet)
+* **Blind Review:** Under double-blind review; no author or affiliation information disclosed.
+
+---
+
+## Upcoming Features
+
+* 3D Grad-CAM extension for model interpretability on volumetric medical images
+* Voxel-level heatmap generation and multi-plane slice output
+
+**Planned additions upon release:**
+
+* Detailed usage examples (Jupyter Notebooks)
+* Installation instructions (`requirements.txt`)
+* API documentation and visualization scripts
+
+---
+
+## Project Structure (Preview)
+
+```
+├── README.md           ← This file
+├── LICENSE             ← Open-source license (e.g., Apache-2.0)
+├── requirements.txt    ← Python dependencies
+├── explainability/     ← Core code directory
+│   ├── gradcam3d.py
+│   ├── utils.py
+│   └── ...
+├── notebooks/          ← Usage examples
+│   └── example.ipynb
+└── tests/              ← Unit tests
+    └── test_gradcam.py
+```
+
+---
+
+## License
+
+To be determined (e.g., Apache License 2.0). Full license text will be added upon code release.
+
+---
+
+## Citation
+
+Please cite the following if you use this code after release:
+
+```bibtex
+@inproceedings{FATENet2025,
+  title={{FATE-Net}: An Explainable 3D Framework for Lung Nodule Detection},
+  author={Anonymous},
+  booktitle={Proceedings of XXX},
+  year={2025}
+}
+```
+
+---
+
+*For any inquiries, please open an issue after paper acceptance.*
