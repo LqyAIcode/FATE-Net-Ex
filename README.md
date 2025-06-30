@@ -18,8 +18,9 @@
 
 ## Upcoming Features
 
-* 3D Grad-CAM extension for model interpretability on volumetric medical images
+* An explainability method based on 3D feature maps to overcome the limitations of Grad-CAM in 3D object detection tasks
 * Voxel-level heatmap generation and multi-plane slice output
+* Potential for extension to other 3D object detection tasks
 
 **Planned additions upon release:**
 
