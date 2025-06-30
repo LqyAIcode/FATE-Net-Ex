@@ -1,9 +1,8 @@
 # Explainability-Analysis-Module-for-3D-Object-Detection-Networks
-# FATE-Net Explainability Module
 
 [![status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/YourRepo)
 
-> **FATE-Net:** A 3D explainability framework for lung nodule detection based on a foundation model and attention transformer.  
+> This repository contains the explainability analysis module code for the paper "FATE-Net: An Explainable 3D Framework for Lung Nodule Detection based on a Foundation Model and Attention Transformer Enhancement".Code will be released upon paper acceptance.
 > 🔧 **Code & Docs Coming Soon!**
 
 ## 📖 Project Overview
